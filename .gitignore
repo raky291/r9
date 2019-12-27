@@ -1,0 +1,10 @@
+# JetBrains
+.idea/
+
+# Composer
+/vendor/
+composer.lock
+
+# WordPress
+wp/
+wp-content/
