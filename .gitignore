@@ -5,6 +5,9 @@
 /vendor/
 composer.lock
 
+# Environments
+.env
+
 # WordPress
 wp/
 wp-content/
