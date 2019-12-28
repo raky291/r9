@@ -10,4 +10,8 @@ composer.lock
 
 # WordPress
 wp/
-wp-content/
+wp-content/*
+!wp-content/themes/
+
+wp-content/themes/*
+!wp-content/themes/r9-understrap-child
