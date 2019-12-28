@@ -1,9 +1,22 @@
+# Visual Studio Code
+.vscode/
+
 # JetBrains
 .idea/
 
 # Composer
 /vendor/
 composer.lock
+
+# Node
+node_modules/
+package-lock.json
+
+# Webpack
+stats.json
+
+# Distribution Directory
+**/wwwroot/dist/
 
 # Environments
 .env
