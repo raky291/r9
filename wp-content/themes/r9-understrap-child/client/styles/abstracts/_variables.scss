@@ -1,3 +1,8 @@
+// Colors
+
+$white: #fff;
+$black: #000;
+
 // Options
 
 $enable-rounded: false;
@@ -6,3 +11,18 @@ $enable-print-styles: false;
 // Typography
 
 $font-family-base: 'Montserrat', sans-serif;
+
+// Navbar
+
+$navbar-padding-y: 0;
+$navbar-padding-x: 0;
+
+$navbar-nav-link-padding-x: 2rem;
+
+$navbar-dark-color: $white;
+$navbar-dark-hover-color: $white;
+
+$navbar-light-color: $black;
+$navbar-light-hover-color: $black;
+
+$navbar-transition: all 0.35s ease;

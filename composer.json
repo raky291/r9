@@ -13,6 +13,8 @@
     "johnpbloch/wordpress": "^5.2",
     "oscarotero/env": "^1.2",
     "vlucas/phpdotenv": "^3.6",
+    "wpackagist-plugin/classic-editor": "^1.5",
+    "wpackagist-plugin/html-editor-syntax-highlighter": "^2.4",
     "wpackagist-theme/understrap": "^0.9.4"
   },
   "config": {
